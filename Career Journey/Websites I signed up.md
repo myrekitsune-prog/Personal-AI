@@ -1,3 +1,0 @@
-indeed
-glassdoor
-ziprecruiter

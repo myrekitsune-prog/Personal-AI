@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder == "Agents"
+views:
+  - type: table
+    name: Table

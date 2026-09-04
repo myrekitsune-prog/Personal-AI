@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "c1993e04e48a835a",
+    "type": "split",
+    "children": [
+      {
+        "id": "08e128cc047c4331",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a24a738932707ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Agents/🧠 Xaihi - The Frost of Wisdom and Your Main Hub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🧠 Xaihi - The Frost of Wisdom and Your Main Hub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "114a01eeafaacb29",
+    "type": "split",
+    "children": [
+      {
+        "id": "04f393c14b54f6b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "691c19350cee2509",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e4afc393439042f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3be6a22afd091c88",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c456b3522c0c6ec1",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1786f0d05c31325",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37dcd9cbd435f463",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "21e36505fb7cc5b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "eeba92e2e9e68122",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8d2042791de7e66d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ab8c6555448bd1d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "0a24a738932707ab",
+  "lastOpenFiles": [
+    "README.md",
+    "Personal + AI/README.md",
+    "Agents/🧠 Xaihi - The Frost of Wisdom and Your Main Hub.md",
+    "Personal + AI",
+    "Websites to check.md",
+    "AI Agents.base",
+    "Career Journey/Websites I signed up.md",
+    "Career Journey/Untitled.base",
+    "Passive income/Proposed passives.md",
+    "Agents/Proposed Agents.md",
+    "Passive income/Passive income pitch.md",
+    "Passive income",
+    "Agents/Art Mentor Persona - Viviana.md",
+    "Agents/Business Ideas Mentor Persona - Rossi.md",
+    "Agents/Upskilling Mentor Persona - Avywenna.md",
+    "Agents/Short Video Creation Mentor Persona - Yvonne.md",
+    "Agents/Mental & Spiritual Mentor Persona - Warfarin.md",
+    "Agents/Live AI Voice Chat Mentor Persona - Gilberta.md",
+    "Agents/Current Work Analyst Persona - Perlica.md",
+    "Career Journey",
+    "Welcome.md",
+    "Agents"
+  ]
+}

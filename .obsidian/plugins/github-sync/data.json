@@ -1,0 +1,9 @@
+{
+  "remoteURL": "git@github.com:myrekitsune-prog/obsidian-vault-personal.git",
+  "gitLocation": "C:\\Program Files\\Git\\cmd\\",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": false
+}
